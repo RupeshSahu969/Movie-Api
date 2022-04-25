@@ -1,0 +1,23 @@
+input{
+    
+    margin: 20px;
+    height: 30px;
+    width: 30%;
+}
+#search_bar{
+    text-align: center;
+}
+/* #movies{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-template-rows: auto;
+    gap: 20px;
+} */
+/* p{
+    text-align: justify;
+    margin: -360px;
+    margin-top: -25px;
+}
+img{
+    height: 300px;
+} */
